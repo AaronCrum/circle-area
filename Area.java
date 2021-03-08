@@ -1,7 +1,4 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 2
  *  Description: A Java Program for calculating the area of a circle of given radius.
 */
 
